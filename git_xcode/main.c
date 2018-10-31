@@ -14,5 +14,6 @@ int main(int argc, const char * argv[]) {
     printf("Hello, Miku");
     printf("Hello, Sam");
     printf("Hello, James");
+    printf("Hello, Park");
     return 0;
 }
